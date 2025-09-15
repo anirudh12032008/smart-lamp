@@ -1,0 +1,19 @@
+Log file created at: 2025/09/14 10:41:16  PID: 1332
+Running on machine: DESKTOP-B2K8M1C
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0914 10:41:16.149861  7188 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0914 10:42:07.149122  7188 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 11 
+I0914 10:42:07.149122  7188 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:11 
+ 
+I0914 10:42:09.883519 10820 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM11 XmodermSendFile detected CCC, start send file 
+ 
+I0914 10:42:09.883519 10820 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM11 ReadSendFile C:\Users\owner's\Downloads\output\output\uni_app_release_update.bin m_iTransferTimes finished 1216 
+ 
+I0914 10:42:49.189638  7188 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 11 
+I0914 10:42:49.192637  7188 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:11 
+ 
+I0914 10:42:56.850317 10820 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM11 XmodermSendFile detected CCC, start send file 
+ 
+I0914 10:42:56.851356 10820 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM11 ReadSendFile C:\Users\owner's\Downloads\output\output\uni_app_release_update.bin m_iTransferTimes finished 1216 
+ 
