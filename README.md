@@ -1,2 +1,10 @@
 # smart-lamp
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fe8d964d8a7cbad766b10fb99038f3675c6c57e_vid_20250915_015252.mp4
+
+
+https://github.com/user-attachments/assets/74a0974e-3f79-498e-bc2f-eb72f5bbd583
+
+
+
+https://github.com/user-attachments/assets/136a9e41-25e5-49ad-b2e5-8eb487ddbee8
+
+
